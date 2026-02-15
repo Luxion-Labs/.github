@@ -2,6 +2,6 @@
 
 # Luxion Labs
 
-![BUILD | FAIL | REBUILD](./assets/banner.png)
+![BUILD | FAIL | REBUILD](../assets/banner.png)
 
 </div>
