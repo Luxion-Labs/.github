@@ -19,5 +19,14 @@ We maintain an explicit 24-hour response SLA on all newly opened issues and pull
 - Maintain atomic, logical commits.
 - Ensure no sensitive credentials, temporary test scripts, or intermediate build files are tracked.
 
+## Contributors List
+The contributors block in `profile/README.md` is generated, so don't edit it by hand. Commit authors are picked up from the public repos automatically. To credit non-code work, add the GitHub username and roles to `thanks` in `data/contributors.json`:
+
+```json
+"thanks": { "octocat": ["Docs", "Design"] }
+```
+
+Preview with `python scripts/contributors.py --dry-run`.
+
 ## Code of Conduct
 Be constructive, professional, and respectful. We foster a collaborative, high-velocity engineering standard across all Luxion Labs projects.
