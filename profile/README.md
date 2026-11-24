@@ -73,6 +73,7 @@ Luxion Labs enforces a strict 24-hour response SLA on all community issues, feat
 <tr>
 <td align="center" width="14%"><a href="https://github.com/saniyanz"><img src="https://github.com/saniyanz.png?size=64" width="64" alt="saniyanz"><br><sub><b>saniyanz</b></sub></a><br><sub>2 commits</sub></td>
 <td align="center" width="14%"><a href="https://github.com/22f2000147"><img src="https://github.com/22f2000147.png?size=64" width="64" alt="22f2000147"><br><sub><b>22f2000147</b></sub></a><br><sub>1 commit</sub></td>
+<td align="center" width="14%"><a href="https://github.com/huerte"><img src="https://github.com/huerte.png?size=64" width="64" alt="huerte"><br><sub><b>huerte</b></sub></a><br><sub>1 commit</sub></td>
 <td align="center" width="14%"><a href="https://github.com/shaizaiqubal"><img src="https://github.com/shaizaiqubal.png?size=64" width="64" alt="shaizaiqubal"><br><sub><b>shaizaiqubal</b></sub></a><br><sub>1 commit</sub></td>
 </tr>
 </table>
