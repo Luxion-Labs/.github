@@ -1,0 +1,7 @@
+{
+  "org": "Luxion-Labs",
+  "columns": 7,
+  "limit": 49,
+  "ignore": ["web-flow"],
+  "thanks": {}
+}
